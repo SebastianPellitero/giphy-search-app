@@ -1,0 +1,23 @@
+.fav-container {    
+    background: #f5deb3;
+    text-align: left;
+    padding: 15px 30px;
+    margin-bottom: 10px;
+}
+
+.favorite-bar {
+    justify-content: center;
+}
+
+.favorite-empty {
+    display:flex;
+    align-items: center;
+    flex-flow: column;
+}
+
+.favorite-image {
+    height: 200px;
+    width: 200px;
+    border-style: dashed;
+    border-color: gray;
+}
